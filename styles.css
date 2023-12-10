@@ -8,7 +8,7 @@ body {
     
     header {
         background: black;
-        background-image: url(image/maxresdefault.jpg);
+        background-image: url(maxresdefault.jpg);
         background-size: 100%;
         background-position: center;
         background-repeat: no-repeat;
@@ -25,7 +25,7 @@ body {
     }
 
     header .logo a {
-        background-image: url(image/download.png) ;
+        background-image: url(download.png) ;
         background-size: 200px;
         background-repeat: no-repeat;
         display: inline-block;
